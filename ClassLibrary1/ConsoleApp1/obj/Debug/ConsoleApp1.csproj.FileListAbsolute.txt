@@ -1,0 +1,10 @@
+E:\Technology\C#OopsWithGitHub\CSharpOops\ClassLibrary1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Technology\C#OopsWithGitHub\CSharpOops\ClassLibrary1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Technology\C#OopsWithGitHub\CSharpOops\ClassLibrary1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Technology\C#OopsWithGitHub\CSharpOops\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\Technology\C#OopsWithGitHub\CSharpOops\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Technology\C#OopsWithGitHub\CSharpOops\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+E:\Technology\C#OopsWithGitHub\CSharpOops\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Technology\C#OopsWithGitHub\CSharpOops\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Technology\C#OopsWithGitHub\CSharpOops\ClassLibrary1\ConsoleApp1\bin\Debug\ClassLibrary2.dll
+E:\Technology\C#OopsWithGitHub\CSharpOops\ClassLibrary1\ConsoleApp1\bin\Debug\ClassLibrary2.pdb

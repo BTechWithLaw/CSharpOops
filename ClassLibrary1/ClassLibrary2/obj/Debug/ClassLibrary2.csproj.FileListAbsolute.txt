@@ -1,0 +1,6 @@
+E:\Technology\C#OopsWithGitHub\CSharpOops\ClassLibrary1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+E:\Technology\C#OopsWithGitHub\CSharpOops\ClassLibrary1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+E:\Technology\C#OopsWithGitHub\CSharpOops\ClassLibrary1\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+E:\Technology\C#OopsWithGitHub\CSharpOops\ClassLibrary1\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+E:\Technology\C#OopsWithGitHub\CSharpOops\ClassLibrary1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+E:\Technology\C#OopsWithGitHub\CSharpOops\ClassLibrary1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
