@@ -85,9 +85,14 @@ namespace ConsoleApp1
     public interface I2
     {
         void InterfaceI2Method();
+        void InterfaceI1Method();
     }
     public class C2 : I2
     {
+        public void InterfaceI1Method()
+        {
+            Console.WriteLine("Implemented I1 method of Interface I2");
+        }
         public void InterfaceI2Method()
         {
             Console.WriteLine("Implemented Interface I2 method");
@@ -104,6 +109,7 @@ namespace ConsoleApp1
 
             C2 obj2 = new C2();
             obj2.InterfaceI2Method();
+            obj2.InterfaceI1Method();
             Console.WriteLine("Implemented both Interface methods at a time i.e. I1, I2");
         }
         public void InterfaceI1Method()
