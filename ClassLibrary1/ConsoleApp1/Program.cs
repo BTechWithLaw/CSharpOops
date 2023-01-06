@@ -15,6 +15,10 @@ namespace ConsoleApp1
             Class1 c1 = new Class1();
             Console.WriteLine(c1.RemoveSpecialCharactersFromString("BVK!@#$%^&*()"));
             Console.ReadKey();
+            Console.WriteLine("---------------------");
+
+            #region Constructor
+
 
             Console.WriteLine("Constructor Demo");
             Console.WriteLine("1. Constructor of a class must have the same name as the class name in which it resides.");
@@ -49,7 +53,39 @@ namespace ConsoleApp1
             Console.WriteLine("Copy Constructor with value equals to : " + g2.Details);
 
             Console.ReadKey();
+            #endregion Constructor
 
+            Console.WriteLine("---------------------");
+
+            #region Inheritance
+            BaseClass baseClass = new BaseClass();
+            baseClass.GetBaseClassDetails();
+            Console.WriteLine("---------------------");
+
+            SingelInheritanceClas singelInheritanceClas = new SingelInheritanceClas();
+            singelInheritanceClas.GetBaseClassDetails();
+            singelInheritanceClas.GetDerivedClassDetails();
+            Console.WriteLine("---------------------");
+
+            MultiLevelInheritance multiLevel = new MultiLevelInheritance();
+            multiLevel.GetBaseClassDetails();
+            multiLevel.GetDerivedClassDetails();
+            multiLevel.GetMultiLevelClassDetails();
+            Console.WriteLine("---------------------");
+
+            HirarchialInheritance hirarchial = new HirarchialInheritance();
+            hirarchial.GetBaseClassDetails();
+            hirarchial.GetHirarchialClassDetails();
+            Console.WriteLine("---------------------");
+
+
+            MultipleInheritanceByInterface multipleInheritanceByInterface = new MultipleInheritanceByInterface();
+            multipleInheritanceByInterface.GetDate();
+            multipleInheritanceByInterface.InterfaceI1Method();
+            multipleInheritanceByInterface.InterfaceI2Method();
+            Console.WriteLine("---------------------");
+            #endregion Inheritance
+            Console.ReadKey();
         }
     }
 }
